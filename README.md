@@ -9,7 +9,7 @@ My name is Amir I'm a Rising CS Senior currently studying @ the illustrious Howa
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Quote: "Hold fast to dreams, for if dreams die, life is a broken winged bird that cannot fly.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
  </p>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRjMzA4ODA5ODU5YmQ0NDg5N2JlMmU2MjcwNDMxZmU5ZjA2ZTEwYSZjdD1n/o0vwzuFwCGAFO/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
