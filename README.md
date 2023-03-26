@@ -2,7 +2,7 @@
  
 # Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
-My name is Amir I'm a Rising CS Junior currently studying @ the illustrious Howard University. I love exploring new technology when I have the chance and I will be working as a Product Management intern this summer @MFST!
+My name is Amir I'm a Rising CS Senior currently studying @ the illustrious Howard University. I love exploring new technology when I have the chance and I will be working as a Product Management intern this summer @MFST!
 <br/>
 <br/>
 <p align="center">
