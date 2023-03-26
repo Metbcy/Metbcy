@@ -19,7 +19,7 @@ My name is Amir I'm a Rising CS Senior currently studying @ the illustrious Howa
 ✔  📫 &nbsp;How to reach me, you can email me at [Gmail](amirbredy1@gmail.com)<br>
 ✔  📫 &nbsp; Feel free to shoot me a message on [LinkedIn](https://www.linkedin.com/in/amir-bredy-193094185/)<br>
 ✔  📚 &nbsp; When I am free, I love gaming and traveling.<br>
-✔ ⚡ &nbsp; Fun fact: I also love reading about Finance and hope to make a startup in the future!
+✔ ⚡ &nbsp; Fun fact: I also love reading about finance and hope to make a startup in the future!
 <br>
 
 <!-- contact me -->
