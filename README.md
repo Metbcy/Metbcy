@@ -13,8 +13,7 @@ My name is Amir I'm a Rising CS Senior currently studying @ the illustrious Howa
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔  🔭 &nbsp; I’m currently working honing my Product Management Skills working on the Cloud.
-✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects that can change the lives of others!<br>
+✔  🔭 &nbsp; I’m currently working honing my Product Management Skills working on the Cloud. &nbsp;  I’m looking to collaborate on exciting projects that can change the lives of others!<br>
 ✔  💬 Ask me about Product Management, Java, Python, C++, and JavaScript<br>
 ✔  📫 &nbsp;How to reach me, you can email me at [Gmail](amirbredy1@gmail.com)<br>
 ✔  📫 &nbsp; Feel free to shoot me a message on [LinkedIn](https://www.linkedin.com/in/amir-bredy-193094185/)<br>
