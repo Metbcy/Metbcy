@@ -2,7 +2,7 @@
  
 # Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
-My name is Amir I'm a Rising CS Senior currently studying @ the illustrious Howard University. I love exploring new technology when I have the chance and I will be working as a Product Management intern this summer @MFST!
+My name is Amir Bredy, I'm a Senior studying Computer Science @ the illustrious Howard University. I love exploring new technology and enhancing the efficiency of old tech. This past summer, I spent time working as a Product Management intern @ Microsoft where I was honing my Product Management and Software Engineering skills working on Enterprise and OS Security on the edge. I’m also looking to collaborate on exciting projects that can change the lives of others!
 <br/>
 <br/>
 <p align="center">
