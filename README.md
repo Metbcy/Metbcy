@@ -2,7 +2,7 @@
  
 # Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
-My name is Amir Bredy, I'm a Senior studying Computer Science @ the illustrious Howard University. I love exploring new technology and enhancing the efficiency of old tech. This past summer, I spent time working as a Product Management intern @ Microsoft where I was honing my Product Management and Software Engineering skills working on Enterprise and OS Security on the edge. I’m also looking to collaborate on exciting projects that can change the lives of others!
+My name is Amir Bredy, I am a New Graduate Computer Science Major from the illustrious Howard University. I love exploring new technology and enhancing the efficiency of old tech. This past summer, I spent time working as a Product Management intern @ Microsoft where I was honing my Product Management and Software Engineering skills working in the Enterprise and OS Security team working on the intersection between AI and Security. I am current slated to start Full-Time this summer at Microsoft as a Product Manager within the Azure Edge + Platform Organization. I’m also looking to collaborate on exciting projects that can change the lives of others!
 <br/>
 <br/>
 <p align="center">
