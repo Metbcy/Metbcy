@@ -101,8 +101,7 @@ My name is Amir Bredy, I am a New Graduate Computer Science Major from the illus
  
  <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+
 </div>
  
 <p align="center">🤍 If you like my projects, Give them ⭐ and Share it with friends!</p>
