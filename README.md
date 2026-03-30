@@ -24,7 +24,6 @@ I'm a TPM II at Microsoft driving end-to-end delivery of edge security features 
 
 🔒 &nbsp; Securing edge infrastructure at scale<br>
 🤖 &nbsp; Tinkering with new projects with AI :)<br>
-📈 &nbsp; TPM II (March 2026)<br>
 💬 &nbsp; Ask me about **Product Management, Security, Cloud, AI**<br>
 📫 &nbsp; Reach me at [amirbredy1@gmail.com](mailto:amirbredy1@gmail.com) or on [LinkedIn](https://linkedin.com/in/amirbredy)<br>
 🎮 &nbsp; When I'm free — gaming, traveling, and reading about finance<br>
