@@ -22,10 +22,10 @@ I'm a TPM II at Microsoft driving end-to-end delivery of edge security features 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26px">&nbsp;***About me***
 
-🔒 &nbsp; Securing edge infrastructure at scale — 2M+ device adoption across Windows & Linux fleets<br>
-🤖 &nbsp; Building GenAI-powered process automation, saving 10+ hrs/week<br>
-📈 &nbsp; Promoted TPM → TPM II (March 2026)<br>
-💬 &nbsp; Ask me about **Product Management, Security, Cloud, AI, Python, TypeScript**<br>
+🔒 &nbsp; Securing edge infrastructure at scale<br>
+🤖 &nbsp; Tinkering with new projects with AI :)<br>
+📈 &nbsp; TPM II (March 2026)<br>
+💬 &nbsp; Ask me about **Product Management, Security, Cloud, AI**<br>
 📫 &nbsp; Reach me at [amirbredy1@gmail.com](mailto:amirbredy1@gmail.com) or on [LinkedIn](https://linkedin.com/in/amirbredy)<br>
 🎮 &nbsp; When I'm free — gaming, traveling, and reading about finance<br>
 
