@@ -12,7 +12,7 @@
 
 ---
 
-I'm a TPM II at Microsoft, driving end-to-end delivery of edge security features across cloud and hybrid environments like confidential computing. I'm passionate about securing systems at scale and using GenAI to ship faster and smarter.
+I'm a TPM II at Microsoft, driving end-to-end delivery of edge security features across cloud and hybrid environments. I'm passionate about securing systems at scale and using GenAI to ship faster and smarter.
 
 <p align="center">
 <i>"Hold fast to dreams, for if dreams die, life is a broken winged bird that cannot fly."</i>
