@@ -56,7 +56,7 @@ I'm a TPM II at Microsoft, driving end-to-end delivery of edge security features
 <br>
 <p align="center">
 
-[![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Metbcy&count_private=true&show_icons=true&theme=radical)](https://github.com/Metbcy)
+[![Amir's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Metbcy)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Metbcy&layout=compact&theme=radical)](https://github.com/Metbcy)
 
