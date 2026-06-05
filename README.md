@@ -26,7 +26,7 @@ I'm a TPM II at Microsoft, driving end-to-end delivery of edge security features
 🤖 &nbsp; Tinkering with new projects with AI :)<br>
 💬 &nbsp; Ask me about **Product Management, Security, Cloud, AI**<br>
 📫 &nbsp; Reach me at [amirbredy1@gmail.com](mailto:amirbredy1@gmail.com) or on [LinkedIn](https://linkedin.com/in/amirbredy)<br>
-🎮 &nbsp; When I'm free — gaming, traveling, and reading about finance<br>
+🎮 &nbsp; When free I'm tinkering, gaming, traveling, and reading about finance<br>
 
 ---
 
@@ -76,4 +76,4 @@ I'm a TPM II at Microsoft, driving end-to-end delivery of edge security features
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="wave" />
 </p>
 
-<sub>Last updated: 03/30/2026</sub>
+<sub>Last updated: 06/04/2026</sub>
